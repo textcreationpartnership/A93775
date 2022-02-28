@@ -1,0 +1,175 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Earle of Stamfords resolution. Expressed in his faithfull execution of the trust imposed upon him concerning the militia of Leicester-shire. Who notwithstanding hee was often opposed, yet did not desist, but did proceed in the performance of his trust. And also did certifie his faith and fidelity to the House of Parliament. With a most remakable [sic] passage concerning the besieging of Hull, and how Sir John Hotham hath let out the waters three miles about the towne for the defence thereof. Joh. Brown Cler. Par. Hen. Elsyng Cler. Par. D. Com.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A93775</idno>
+            <idno type="STC">Wing S5189</idno>
+            <idno type="STC">Thomason E154_25</idno>
+            <idno type="STC">ESTC R212703</idno>
+            <idno type="EEBO-CITATION">99871289</idno>
+            <idno type="PROQUEST">99871289</idno>
+            <idno type="VID">156830</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A93775)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156830)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[25])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Earle of Stamfords resolution. Expressed in his faithfull execution of the trust imposed upon him concerning the militia of Leicester-shire. Who notwithstanding hee was often opposed, yet did not desist, but did proceed in the performance of his trust. And also did certifie his faith and fidelity to the House of Parliament. With a most remakable [sic] passage concerning the besieging of Hull, and how Sir John Hotham hath let out the waters three miles about the towne for the defence thereof. Joh. Brown Cler. Par. Hen. Elsyng Cler. Par. D. Com.</title>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed for A. Coe,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Stamford, Henry Grey, --  Earl of, 1599?-1673 --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term>Hull (England) --  History, Military --  17th century --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156830:1"/>
+            <p>THE EARLE OF STAMFORDS RESOLVTION.</p>
+            <p>Expreſſed in his faithfull execution of the truſt impoſed upon him concerning the <hi>Militia</hi> of <hi>Leiceſter-ſhire.</hi>
+            </p>
+            <p>Who notwithſtanding hee was often oppoſed, yet did not deſiſt, but did pro<g ref="char:EOLhyphen"/>ceed in the performance of his truſt.</p>
+            <p>And alſo did certifie his faith and fidelity to the HOUSE OF PARLIAMENT.</p>
+            <p>
+               <hi>With a moſt remakable paſſage concer<g ref="char:EOLhyphen"/>ning the beſieging of</hi> Hull, <hi>and how Sir</hi> John Hotham <hi>hath let out the waters three miles about the Towne for the defence thereof.</hi>
+            </p>
+            <list>
+               <item>Joh. Brown Cler. Par.</item>
+               <item>Hen. Elſyng Cler. Par. D. Com.</item>
+            </list>
+            <p>
+               <hi>London,</hi> Printed for <hi>A. Coe,</hi> 1642.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156830:2"/>
+            <pb facs="tcp:156830:2"/>
+            <head>THE EARLE OF STAMFORDS RESOLVTION. Expreſſed in his faithfull execution of the truſt impoſed upon him concerning the <hi>Militia</hi> of <hi>Leiceſter-ſhire.</hi>
+            </head>
+            <p>
+               <seg rend="decorInit">H</seg>Ow terrible a thing private diſſen<g ref="char:EOLhyphen"/>tion is, and of what great danger and conſequence, even to the ru<g ref="char:EOLhyphen"/>ine of whole Kingdomes; civill warres have beene the fearefull and lamentable example of anci<g ref="char:EOLhyphen"/>ent times, may give us warning, for feare leſt we being led on by the ſame ſpirit, be<g ref="char:EOLhyphen"/>come as miſerable as they were, and are like them, made the ſubjects of future contempts and ſcorne. No<g ref="char:EOLhyphen"/>thing doth more enervate and weaken the ſtrength and ſinewes of a Common-wealth, then diviſion; nothing doth more aſſiſt them for oppoſition againſt forraigne invaſions, then unity and concord within themſelves, The conſideration of the former ſtate of this land with
+<pb facs="tcp:156830:3"/> what it now is, is moſt lamentable: who can without teares conſider that this Nation, which not many years ſince was the pride and glory of all Europe, the admi<g ref="char:EOLhyphen"/>rations and terrors of other Countries, ſhould now be<g ref="char:EOLhyphen"/>come ſo deſpicable, that now even thoſe who durſt not name this Nation without a trembling heart and reve<g ref="char:EOLhyphen"/>rence, now dare to make of us a deſpicable proverb, and the contemptible object of their ordinary diſ<g ref="char:EOLhyphen"/>courſe? And all this miſery hath taken poſſeſſion of us onely by the ill counſells of the malignant party, who by their evill and wicked ſuggeſtions, ſtill anima<g ref="char:EOLhyphen"/>ting his Majeſty to beleeve what they only adviſe to the ruine of his Majeſties Kingdome, have wrought this miſchiefe which now hangs over our heads threatning diſtruction, unleſſe by the mercy of God there be ſome ſpeedy meanes taken for prevention thereof; and a<g ref="char:EOLhyphen"/>mong all the difference wherewith this Kingdome hath been diſtracted none hath more troubled the peace thereof, then that concerning the Militia, it being of it ſelfe indeed a conſideration of moſt great weight and conſequence. The Houſes of Parliament have been very carefull, in theſe dangerous and pernicious times ſo to diſpoſe of and ſettle the Militia of this Kingdome, that the invaſion of any forraine Nation which may be attempted, being induced by the apprehenſion of an opportunity, by reaſon of our owne diſſentions, and the defigns of the malignant party, which daily wait an occaſion to ſet on foot their hatcht miſchiefe, may bee prevented, the King and Countrey from both thoſe aſ<g ref="char:EOLhyphen"/>ſaults ſecured, and the ſubjects remaine in peace and tranquility; yet notwithſtanding all the faithfull care
+<pb facs="tcp:156830:3"/> and induſtry of the Houſe of Parliament to ſetle and ſecure the Magazine of this Kingdome, they have found in all their reſolutions many and ſtrong oppoſiti<g ref="char:EOLhyphen"/>ons, for they whom they have thought worthy of ſo great a truſt, have in the execution of their truſt found very ſtrange and violent oppoſition, and their beſt en<g ref="char:EOLhyphen"/>deavours, which have laboured for the publicke be<g ref="char:EOLhyphen"/>nefit, have beene very much miſconſtrued, whereby if it might be, they would have beene diſcouraged from the proſecution of ſo good a worke, which did tend to and aime at the benefit and ſecurity of the whole King<g ref="char:EOLhyphen"/>dome.</p>
+            <p>The Earle of Stamford was by the Houſe of Par<g ref="char:EOLhyphen"/>liament elected and choſe Lieutenant for Leiceſter; and it was thought fit, by the wiſdome of the ſame Houſe, that the <hi>Militia,</hi> and training up of the Traine Bands, ſhould be at his power and command: he went down to take poſſeſſion of the Magazine of that Coun<g ref="char:EOLhyphen"/>ty, and alſo to execute and perform that truſt which the Parliament had conferred on him; but his proceedings were opoſed in their veryinfancy, &amp; his care was coun<g ref="char:EOLhyphen"/>termanded by a company of Cavaliers, who did endea<g ref="char:EOLhyphen"/>vour by all meanes poſſible to hinder the Earle in the performance of what the houſe of Parliament did ex<g ref="char:EOLhyphen"/>pect from him; yet notwithſtanding theſe oppoſitions the Earle doth proceed, and doth labour by his wiſ<g ref="char:EOLhyphen"/>dome and gravity to ſuppreſſe the Actors and their inſolencie, to take away the cauſers of thoſe inſurre<g ref="char:EOLhyphen"/>ctions, and tumults. Hee is very conſtant and vigilant of the charge impoſed upon him, and as he thought it did befit him: Hee ſent to the Houſe the condition of
+<pb facs="tcp:156830:4"/> the Countrey as it then ſtood in, together with his owne Reſolution. That he went on with the <hi>Militia,</hi> notwithſtanding hee had received ſome oppoſition by one Maſter <hi>Henry H<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ſtings,</hi> ſon to the Earle of Hun<g ref="char:EOLhyphen"/>tington, who brought the Kings Proclamation, and Commiſſion of Array, by vertue whereof he muſtered up an hundred horſe, a hundred and twenty Musketiers, and foureſcore Pikes, and ſaid that hee had power by that Proclamation and Commiſſion to muſter up the Traine Bands.</p>
+            <div type="part">
+               <head>A true Relation of the care and fide<g ref="char:EOLhyphen"/>lity of Sir <hi>Iohn Hotham</hi> concerning the truſt which he is put into in the Towne of Hull by the honourable Court of Parliament, how he hath for<g ref="char:EOLhyphen"/>tified it for the defence thereof.</head>
+               <p>THe care and fidelity of Sir <hi>Iohn Hotham,</hi> exprel ſed in the execution of his truſt impoſed upon, con<g ref="char:EOLhyphen"/>cerning the Towne of Hull, is manifeſt unto all; who hath now ſo fortified that Towne that there is no force to be apprehended of any taking of it. He hath et in the water three miles round the ſaid Towne, which water
+<pb facs="tcp:156830:4"/> runs in a Current two foot deepe at the leaſt, ſo that without a great hazzard and dangers of the attempters, there is no approach to bee made neere the Towne: Yet notwithſtanding this provided defence, there are daily many aſlaults made againſt the ſaid Towne, for by the aſſiſtance of ſome of the Malignant party, there are now great forces drawing down to the ſaid Town, and three, field pieces, with which they doe intend, for all the defence provided, to batter downe the ſaid Towne, and ſo to gaine admittance. There are drums daily beat thereabouts for the raiſing of Volunteers, by reaſon that the Traine Bands in moſt places refuſe to come in, and ſo great the difference is thereabouts, that there is a continuall and daily expectation of war, ſo that the whole Countrey is in a continuall perplexi<g ref="char:EOLhyphen"/>ty. Theſe times, God knowes, are very dangerous, which God of his infinite mercy amend and ſettle; and grant that the King and Parliament may be united in a moſt inſeparable unity in affe<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ions, that ſo both their Counſells being unanimouſly united, to the glory of God, this Kingdome may flouriſh, and peace and pro<g ref="char:EOLhyphen"/>ſperity bee eſtabliſhed within the wall<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> of this our Sion.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:156830:5"/>
+               <p>That if in caſe of neceſſity, if his Maieſty ſhall deny his aſſent, the Ordinance agreed on by bo<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h Houſes of Parliament, doth obliege the People, dnd o<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ght to bee obeyed, being warranted by the Fundamentall Laws of the Kingdome.</p>
+               <p>Both Houſes of Parliament hath took into their ſe<g ref="char:EOLhyphen"/>rious conſidetation the Occaſion and Reaſon why the Members of the ſaid Houſes ſhould abſent themſelves upon their ſommoning in, Wherupon they hath drawn up a Charge againſt them, and are reſolvd that they ſhall pay 100 l a man, and to be examined by the Com<g ref="char:EOLhyphen"/>mittee before the next ſitting.</p>
+            </div>
+            <closer>
+               <signed>
+                  <list>
+                     <item>Iohn Brown Cler Parl.</item>
+                     <item>Hen Elſing Cler<g ref="char:punc">▪</g> Parl D Com.</item>
+                  </list>
+               </signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
